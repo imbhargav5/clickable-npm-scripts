@@ -3,7 +3,7 @@
 **Note**  Depends [platformio-atom-ide-terminal](https://github.com/platformio/platformio-atom-ide-terminal) to run!
 
 
-Run npm scripts with a single click. 
+Run npm scripts with a single click.
 
 
 ![A screenshot of your package](http://i.imgur.com/IG8KArM.gif)
@@ -22,4 +22,4 @@ apm install clickable-npm-scripts
 
 ### LICENSE
 
-MIT (c) Bhargav Ponnapalli
+MIT (c) Bhargav Ponnapalli 2017
