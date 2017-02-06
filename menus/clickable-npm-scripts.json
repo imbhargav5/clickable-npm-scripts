@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle clickable-npm-scripts",
+        "command": "clickable-npm-scripts:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "clickable-npm-scripts",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "clickable-npm-scripts:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

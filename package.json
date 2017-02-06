@@ -1,0 +1,29 @@
+{
+  "name": "clickable-npm-scripts",
+  "main": "./lib/clickable-npm-scripts",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/clickable-npm-scripts",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "read-pkg-up": "^2.0.0",
+    "term.js": "^0.0.7"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    },
+		"runInTerminal": {
+      "description": "Allow to run commands in terminal.",
+      "versions": {
+        "0.14.5": "consumeRunInTerminal"
+      }
+    }
+  }
+}
