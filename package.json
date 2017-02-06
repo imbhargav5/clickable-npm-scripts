@@ -1,7 +1,7 @@
 {
   "name": "clickable-npm-scripts",
   "main": "./lib/clickable-npm-scripts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/bhargav175/clickable-npm-scripts",
@@ -19,7 +19,7 @@
         "^1.0.0": "consumeStatusBar"
       }
     },
-		"runInTerminal": {
+    "runInTerminal": {
       "description": "Allow to run commands in terminal.",
       "versions": {
         "0.14.5": "consumeRunInTerminal"
