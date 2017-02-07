@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle clickable-npm-scripts",
+        "label": "Show/hide npm scripts",
         "command": "clickable-npm-scripts:toggle"
       }
     ]
@@ -15,7 +15,7 @@
           "label": "clickable-npm-scripts",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Show/hide npm scripts",
               "command": "clickable-npm-scripts:toggle"
             }
           ]
