@@ -1,7 +1,7 @@
 {
   "name": "clickable-npm-scripts",
   "main": "./lib/clickable-npm-scripts",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/bhargav175/clickable-npm-scripts",
